@@ -251,6 +251,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2020-02-16 17:24:23 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2019-12-09 23:15:40 +0300"
@@ -278,12 +284,6 @@
   "minecraft:recipes/decorations/light_blue_glazed_terracotta": {
     "criteria": {
       "has_light_blue_terracotta": "2019-12-15 13:55:06 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/emerald_block": {
-    "criteria": {
-      "has_at_least_9_emerald": "2018-12-31 13:49:51 +0300"
     },
     "done": true
   },
@@ -413,12 +413,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/emerald": {
-    "criteria": {
-      "has_at_least_9_emerald": "2018-12-31 13:49:51 +0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2019-12-10 21:47:36 +0300"
@@ -449,12 +443,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/sugar": {
-    "criteria": {
-      "has_reeds": "2018-12-31 13:38:08 +0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/brick_stairs": {
     "criteria": {
       "has_brick_block": "2019-01-04 10:10:20 +0300"
@@ -464,12 +452,6 @@
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2018-12-31 13:39:18 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/gold_block": {
-    "criteria": {
-      "has_at_least_9_gold_ingot": "2019-12-10 21:40:20 +0300"
     },
     "done": true
   },
@@ -671,6 +653,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2020-02-16 16:54:29 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2019-12-10 21:47:36 +0300"
@@ -785,12 +773,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
-    "criteria": {
-      "has_at_least_9_gold_ingot": "2019-12-10 21:40:20 +0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2019-12-10 21:47:36 +0300"
@@ -833,6 +815,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2020-02-16 16:59:02 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
       "has_porkchop": "2019-12-14 16:46:04 +0300"
@@ -866,6 +854,12 @@
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2019-12-09 23:59:33 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2020-02-16 16:24:49 +0300"
     },
     "done": true
   },
@@ -905,15 +899,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/iron_block": {
-    "criteria": {
-      "has_at_least_9_iron_ingot": "2018-12-31 14:27:25 +0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2019-12-13 20:34:29 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/iron_block": {
+    "criteria": {
+      "has_iron_ingot": "2020-02-16 15:17:28 +0300"
     },
     "done": true
   },
@@ -938,6 +932,12 @@
   "minecraft:recipes/building_blocks/clay": {
     "criteria": {
       "has_clay_ball": "2019-01-01 10:39:20 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_yellow_flower": "2020-02-16 15:58:41 +0300"
     },
     "done": true
   },
@@ -1226,10 +1226,12 @@
       "minecraft:deep_frozen_ocean": "2019-12-10 22:18:37 +0300",
       "minecraft:jungle": "2019-12-13 21:58:22 +0300",
       "minecraft:birch_forest": "2018-12-31 13:54:50 +0300",
+      "minecraft:jungle_hills": "2020-02-16 15:37:14 +0300",
       "minecraft:beach": "2018-12-31 13:39:59 +0300",
       "minecraft:dark_forest": "2018-12-31 13:47:10 +0300",
       "minecraft:river": "2018-12-31 13:37:29 +0300",
       "minecraft:birch_forest_hills": "2018-12-31 13:56:05 +0300",
+      "minecraft:wooded_hills": "2020-02-16 16:10:22 +0300",
       "minecraft:stone_shore": "2018-12-31 13:41:19 +0300",
       "minecraft:swamp": "2018-12-31 13:54:41 +0300",
       "minecraft:plains": "2018-12-31 13:54:40 +0300"
@@ -1370,7 +1372,7 @@
   },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
-      "has_at_least_9_lapis": "2018-12-31 20:44:28 +0300"
+      "has_lapis": "2020-02-16 15:17:28 +0300"
     },
     "done": true
   },
@@ -1395,6 +1397,12 @@
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
       "has_sandstone": "2019-12-13 21:53:00 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2020-02-16 15:47:36 +0300"
     },
     "done": true
   },
@@ -1470,6 +1478,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2020-02-16 15:47:36 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2018-12-31 13:39:18 +0300"
@@ -1509,12 +1523,6 @@
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_gravel": "2018-12-31 15:40:10 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/wheat": {
-    "criteria": {
-      "has_at_least_9_wheat": "2018-12-31 19:45:34 +0300"
     },
     "done": true
   },
@@ -1593,7 +1601,6 @@
   },
   "minecraft:recipes/misc/iron_nugget": {
     "criteria": {
-      "has_at_least_9_iron_nugget": "2018-12-31 13:49:51 +0300",
       "has_iron_ingot": "2018-12-31 13:49:51 +0300"
     },
     "done": true
@@ -1613,12 +1620,6 @@
   "minecraft:recipes/decorations/black_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2018-12-31 14:26:56 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bone_meal_from_bone_block": {
-    "criteria": {
-      "has_at_least_9_bonemeal": "2018-12-31 15:16:32 +0300"
     },
     "done": true
   },
@@ -1709,6 +1710,12 @@
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2019-12-09 23:48:33 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_reeds": "2018-12-31 13:38:08 +0300"
     },
     "done": true
   },
@@ -1852,12 +1859,6 @@
   "minecraft:recipes/building_blocks/orange_terracotta": {
     "criteria": {
       "has_terracotta": "2019-12-15 13:52:34 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/hay_block": {
-    "criteria": {
-      "has_at_least_9_wheat": "2018-12-31 19:45:34 +0300"
     },
     "done": true
   },
@@ -2107,6 +2108,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2020-02-16 16:24:49 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2018-12-31 13:47:57 +0300"
@@ -2236,12 +2243,6 @@
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2019-12-10 21:47:36 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/lapis_lazuli": {
-    "criteria": {
-      "has_at_least_9_lapis": "2018-12-31 20:44:28 +0300"
     },
     "done": true
   },
@@ -2451,7 +2452,7 @@
   },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
-      "has_at_least_9_coal": "2018-12-31 13:43:10 +0300"
+      "has_coal": "2020-02-16 15:17:28 +0300"
     },
     "done": true
   },
@@ -2599,6 +2600,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2020-02-16 16:24:49 +0300"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2018-12-31 13:37:22 +0300"
@@ -2614,12 +2621,6 @@
   "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2019-12-13 21:53:00 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/coal": {
-    "criteria": {
-      "has_at_least_9_coal": "2018-12-31 13:43:10 +0300"
     },
     "done": true
   },
@@ -2707,12 +2708,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
-    "criteria": {
-      "has_at_least_9_iron_nugget": "2018-12-31 13:49:51 +0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2018-12-31 20:17:48 +0300"
@@ -2722,12 +2717,6 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2018-12-31 13:37:29 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
-    "criteria": {
-      "has_at_least_9_iron_ingot": "2018-12-31 14:27:25 +0300"
     },
     "done": true
   },
@@ -2869,6 +2858,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2020-02-16 16:54:29 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dark_oak_fence": {
     "criteria": {
       "has_planks": "2018-12-31 14:26:20 +0300"
@@ -2917,11 +2912,5 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/bone_block": {
-    "criteria": {
-      "has_at_least_9_bonemeal": "2018-12-31 15:16:32 +0300"
-    },
-    "done": true
-  },
-  "DataVersion": 1976
+  "DataVersion": 2230
 }
