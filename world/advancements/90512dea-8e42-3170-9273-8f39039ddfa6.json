@@ -632,6 +632,7 @@
       "minecraft:skeleton": "2018-12-31 14:07:20 +0300",
       "minecraft:spider": "2018-12-31 14:43:04 +0300",
       "minecraft:creeper": "2018-12-31 15:00:03 +0300",
+      "minecraft:phantom": "2020-02-23 21:15:55 +0300",
       "minecraft:husk": "2019-12-13 22:43:53 +0300",
       "minecraft:cave_spider": "2019-12-09 23:57:29 +0300",
       "minecraft:enderman": "2018-12-31 20:21:12 +0300",
@@ -1656,6 +1657,12 @@
   "minecraft:recipes/misc/white_dye": {
     "criteria": {
       "has_bone_meal": "2019-12-15 19:08:51 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/packed_ice": {
+    "criteria": {
+      "has_ice": "2020-02-23 20:44:26 +0300"
     },
     "done": true
   },
