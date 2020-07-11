@@ -281,6 +281,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2020-07-11 10:08:03 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2018-12-31 19:59:16 +0300"
@@ -699,6 +705,7 @@
       "minecraft:spider": "2018-12-31 14:43:04 +0300",
       "minecraft:creeper": "2018-12-31 15:00:03 +0300",
       "minecraft:phantom": "2020-02-23 21:15:55 +0300",
+      "minecraft:witch": "2020-07-11 11:02:27 +0300",
       "minecraft:husk": "2019-12-13 22:43:53 +0300",
       "minecraft:cave_spider": "2019-12-09 23:57:29 +0300",
       "minecraft:enderman": "2018-12-31 20:21:12 +0300",
@@ -1276,6 +1283,12 @@
       "has_iron_helmet": "2019-12-09 23:15:40 +0300",
       "has_iron_sword": "2019-12-09 23:15:40 +0300",
       "has_iron_chestplate": "2019-12-09 23:15:40 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
+    "criteria": {
+      "has_smooth_sandstone": "2020-07-11 10:08:03 +0300"
     },
     "done": true
   },
@@ -1912,6 +1925,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2020-07-11 10:08:03 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod": {
     "criteria": {
       "has_cod": "2018-12-31 15:41:59 +0300"
@@ -2365,6 +2384,12 @@
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2019-12-13 20:39:53 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
+    "criteria": {
+      "has_smooth_sandstone": "2020-07-11 10:08:03 +0300"
     },
     "done": true
   },
