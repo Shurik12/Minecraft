@@ -5,3 +5,4 @@
 5. **-540 79 -772** - house by Nastya
 6. **-489 68 -1345** - village 1
 7. **-950 106 537** - stone castle
+8. **-1690 64 57** - village 2
