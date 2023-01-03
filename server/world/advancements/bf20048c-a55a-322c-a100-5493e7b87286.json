@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2023-01-03 09:57:54 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2023-01-02 17:50:08 +0300"
@@ -41,14 +47,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2023-01-03 09:57:54 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2023-01-03 10:13:59 +0300"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:beach": "2023-01-02 18:13:37 +0300",
       "minecraft:river": "2023-01-02 18:13:46 +0300",
+      "minecraft:cold_ocean": "2023-01-03 09:22:44 +0300",
       "minecraft:forest": "2023-01-02 17:43:17 +0300",
       "minecraft:jungle": "2023-01-02 17:49:45 +0300"
     },
     "done": false
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2023-01-03 09:57:54 +0300"
+    },
+    "done": true
   },
   "DataVersion": 3218
 }
