@@ -1,13 +1,7 @@
 {
-  "minecraft:recipes/transportation/acacia_boat": {
+  "minecraft:recipes/misc/black_dye": {
     "criteria": {
-      "in_water": "2023-01-02 17:50:08 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/oak_boat": {
-    "criteria": {
-      "in_water": "2023-01-02 17:50:08 +0300"
+      "has_ink_sac": "2023-01-05 12:18:58 +0300"
     },
     "done": true
   },
@@ -29,13 +23,49 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/jungle_boat": {
+  "minecraft:recipes/transportation/mangrove_boat": {
     "criteria": {
       "in_water": "2023-01-02 17:50:08 +0300"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/mangrove_boat": {
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2023-01-05 12:26:35 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2023-01-03 09:57:54 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2023-01-05 12:19:00 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2023-01-02 17:50:08 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2023-01-02 17:50:08 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2023-01-05 12:19:00 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2023-01-02 17:50:08 +0300"
     },
@@ -47,9 +77,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
-      "has_kelp": "2023-01-03 09:57:54 +0300"
+      "has_salmon": "2023-01-05 12:19:00 +0300"
     },
     "done": true
   },
@@ -61,11 +91,19 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:birch_forest": "2023-01-05 12:25:54 +0300",
+      "minecraft:windswept_hills": "2023-01-05 12:27:55 +0300",
       "minecraft:beach": "2023-01-02 18:13:37 +0300",
+      "minecraft:dark_forest": "2023-01-05 12:25:42 +0300",
       "minecraft:river": "2023-01-02 18:13:46 +0300",
+      "minecraft:stony_shore": "2023-01-05 12:29:00 +0300",
       "minecraft:cold_ocean": "2023-01-03 09:22:44 +0300",
       "minecraft:forest": "2023-01-02 17:43:17 +0300",
-      "minecraft:jungle": "2023-01-02 17:49:45 +0300"
+      "minecraft:deep_cold_ocean": "2023-01-05 12:25:29 +0300",
+      "minecraft:jungle": "2023-01-02 17:49:45 +0300",
+      "minecraft:ocean": "2023-01-05 12:29:01 +0300",
+      "minecraft:windswept_gravelly_hills": "2023-01-05 12:27:24 +0300",
+      "minecraft:plains": "2023-01-05 12:25:36 +0300"
     },
     "done": false
   },
